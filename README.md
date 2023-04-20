@@ -2,7 +2,7 @@
 # Overview
 This report presents an analysis of a WhatsApp chat conversation between members of the ADA Program Team Prime. The chat contains a total of 699 messages sent between  December 5th, 2022 and December 14th, 2022.
  
-#Methodology
+# Methodology
 
 The chatlog was exported from the WhatsApp chat group and cleaned. It was then analysed with python libraries like numpy, matplotlib, pandas, seaborn, wordcloud and matplotlib.
 
